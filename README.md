@@ -2,7 +2,9 @@
 
 ## ✧ Repo Overview ✧
 
-This repository is an archive of assets pertaining to **Playstation®Home**.
+This repository is an archive of assets pertaining to **Playstation®Home**. 
+
+The archive is located on HuggingFace https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot
 
 Playstation®Home was an online social world video game that was on PS3. It was closed down by it's creator ( Sony Computer Entertainment ) on April 1st 2015. The Playstation®Home community strongly feels that Playstation®Home is an abandonded game and its assets to be lost media.
 
