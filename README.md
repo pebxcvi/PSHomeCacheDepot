@@ -213,7 +213,7 @@ With **HEN enabled**, do the following :
 
 **`HFW 4.92 w/ HEN 3.4.0`**
 
-**Download required files @** [`JailbreakTools_4.92.1`](https://drive.google.com/file/d/1DWJTZ3gwBmSa1aj0ieZo3YsSmCk3NjiI/view?usp=sharing)
+**Download required files @** [**`JailbreakTools_4.92.1`**](https://drive.google.com/file/d/1DWJTZ3gwBmSa1aj0ieZo3YsSmCk3NjiI/view?usp=sharing)
 
 ### ✧ Updating Your PS3 ✧ 
 
