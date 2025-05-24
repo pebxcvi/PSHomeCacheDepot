@@ -167,7 +167,7 @@ After the PS3 has extracted the data onto your USB stick, insert it into your co
 
 ### ✧ Extraction Guide ✧
 
-**Prerequisite :** Jailbroken PS3 required. Learn how here : [**`✧ How to Jailbreak ✧ `**](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot#%E2%9C%A7-how-to-jailbreak-%E2%9C%A7)
+**Prerequisite :** Jailbroken PS3 required. Learn how here : [**`✧ How to Jailbreak ✧ `**](https://github.com/pebxcvi/PSHomeCacheDepot#-how-to-jailbreak-)
 
 With **HEN enabled**, do the following :
 
