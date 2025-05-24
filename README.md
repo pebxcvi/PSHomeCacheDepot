@@ -3,9 +3,9 @@
 > [!IMPORTANT]
 > **This archive is located on HuggingFace @ https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot**
 
-## ✧ Repo Overview ✧
+## ✧ Repository Overview ✧
 
-This repository is an archive of assets pertaining to **Playstation®Home**. 
+This repository is an archive of assets pertaining to **Playstation®Home**.
 
 Playstation®Home was an online social world video game that was on PS3. It was closed down by it's creator ( Sony Computer Entertainment ) on April 1st 2015. The Playstation®Home community strongly feels that Playstation®Home is an abandonded game and its assets to be lost media.
 
@@ -46,6 +46,56 @@ This project provides :
  - it's own Playstation®Home public server which supports both QA ( Developer ) and Retail ( Consumer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. ( [pshomeologylab.net](https://pshomeologylab.net/) )
 
  - a Playstation®Home item ( object ) catalogue database and inventory management system for the PS®Homeology Lab online server, along with an external command module for the QA ( Developer ) build. ( [psho.me](http://psho.me/) )
+
+## ✧ How to Clone This Repository ✧ 
+
+There are two ways to clone this repository: using Git's API or using Hugging Face's Python based API. To keep things simple, the below methods will be geared toward Windows machines.   
+
+### ✧ Git ✧
+
+With Git, you can the clone entire repository or clone specific folders. This repository is structured in a certian way to make it easier to clone specific folders.
+
+1) Install Git with the stand alone installer ( [git-scm.com](https://git-scm.com/downloads/win) )
+
+2) Download and run the batch script ( [clone_repo.bat](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.bat) ), located in the root of the repository. You can run the script in any folder of your choice, but ensure you run it as an administrator.
+
+     The script will ...
+     
+     1 ) Set a PATH environment variable for Git using the default install directory <code>C:\Program Files\Git\bin</code>. If that is not where your Git is installed then ensure you change the variables at the top of the script.
+     
+     2 ) Set up Git LFS.
+
+     3 ) Give three options. 
+     
+     Option 1 will clone the entire repository.
+     
+     Option 2 will clone specific folders based on a text file named FOLDER.TXT. The script creates a default FOLDER.TXT before initializing the Git repository—this default file is set to ignore all folders. Let the script finish. Afterwards, remove the "#" from the entries in FOLDER.TXT and rerun it. Initializing the repository will look something like this :
+     
+        Initialized empty Git repository in C:/Repos/PSHomeCacheDepot/.git/
+        Updating origin
+        remote: Enumerating objects: 635590, done.
+        remote: Counting objects: 100% (303481/303481), done.
+        remote: Compressing objects: 100% (284559/284559), done.
+        remote: Total 635590 (delta 11151), reused 51232 (delta 552), pack-reused 332109 (from 1)
+        Receiving objects: 100% (635590/635590), 640.76 MiB | 3.71 MiB/s, done.
+        Resolving deltas: 100% (99978/99978), done.
+        From https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot
+         * [new branch]            main       -> origin/main
+        sparse-checkout IS EMPTY. UNCOMMENT AN ENTRY IN FOLDER.TXT.
+        
+      Option 3 will update your local repo folder using the Git command <code>git pull</code>. If any changes are made to your local repo then you'll need to run <code>git stash</code> before you try to pull. 
+        
+### ✧ HuggingFace ✧
+
+With the HuggingFace Python based API, only the entire repository can be cloned using the deprecated `Repository` class ( [Repository documentation](https://huggingface.co/docs/huggingface_hub/en/guides/repository#clone) ). The Python script below ( [clone_repo.py](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.py) ) will utilize this class until HuggingFace removes it. The documentation states to use the `snapshot_download` function ( [snapshot_download documentation](https://huggingface.co/docs/huggingface_hub/v0.29.3/en/package_reference/hf_api#huggingface_hub.HfApi.snapshot_download) ) in lieu of the `Repository` class but unforunately, it consistently errors out when attempting to clone the entire repository. On the bright side, the `Repository` class clones the repository exceptionally fast.
+
+To clone the entire repository, …
+
+1) Install Python's latest Window Installer ( [python.org](https://www.python.org/) )
+
+2) Install the API. Open a command prompt as administrator then run <code>pip install huggingface_hub</code>
+
+3) Download and run the python script ( [clone_repo.py](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.py) ), located in the root of the repository. You can run the script in any folder of your choice.
 
 ## ✧ Playstation®Home Cache Information ✧ 
 
@@ -101,22 +151,59 @@ To reiterate, in order to extract the Playstation®Home cache, it is **required 
 
 For newcomers, the PS3 jailbreak community **recommends updating your PS3 to the Hybrid Firmware ( HFW ) then installing the HEN software**. It is a Semi-untethered Jailbreak where the user has to enable HEN to go into a jailbroken state. When rebooting the PS3, it returns to a non-jailbroken state until the user enables HEN again. Because of this, it is considered to be **very safe**. 
 
-Once jailbroken, a **Homebrew application called multiMAN ( mmCM )** can be used to **browse the PS3 directories** via its own File Manager / mmOS. Playstation®Home's cache folders will be **in the dev_hdd0/game/ directory** and can be **indentified by one of the below folder pairs**. **The objective is to copy the two folders from the PS3 to the FAT32 USB Stick.**
+Once jailbroken, a **Homebrew application called multiMAN MOD ( mmCM )** can be used to **browse the PS3 directories** via its own File Manager / mmOS. Playstation®Home's cache folders will be **in the dev_hdd0/game/ directory** and can be **indentified by one of the below folder pairs**. **The objective is to copy the two folders from the PS3 to the FAT32 USB Stick.**
 
-        NPIA00005 & NPIA00005DATA ( Retail )
-        NPIA00010 & NPIA00010DATA ( Developer )
-        NPEA00013 & NPEA00013DATA ( Developer / Closed Beta )
+**`NPIA00005`** / **`NPIA00005DATA`** ( **Retail** )  
+**`NPIA00010`** / **`NPIA00010DATA`** ( **Developer** )  
+**`NPEA00013`** / **`NPEA00013DATA`** ( **Developer** / **Closed Beta** )
 
 The jailbreak should take 10 minutes tops and the data extraction should take 30 minutes to 90 minutes tops depending on the number of files. 
 
-After the PS3 has extracted the data onto your USB stick, insert it into your computer, transfer the data, then **zip the two folders and upload the resulting file to a cloud service** of your choice (e.g., Google Drive, Mega, etc.). Then, **join one of the Discord servers** linked above and post the link in the appropriate channel.
-
-Upon request, a comprehensive analysis of the cache—detailing its contents and any new files discovered—is available.
+After the PS3 has extracted the data onto your USB stick, insert it into your computer, transfer the data, then **zip the two folders and upload the resulting file to a cloud service** of your choice (e.g., Google Drive, Mega, etc.). Then, **join one of the Discord servers** linked above and post the link in the appropriate channel. Upon request, a comprehensive analysis of the cache—detailing its contents and any new files discovered—is available.
 
 
-### ✧ Extraction Guides ✧
+> [!WARNING]
+> **Most Playstation®Home caches are safe to share, but some may contain a file called `DATALOG.DAT`, which can include the original player’s IP address and Playstation Network ID. If you'd like to remove this file before zipping the folders, you’re welcome to do so. We also remove it before publicly archiving any cache. You can typically find it in a directory such as `/NPIA00005/USRDIR/`.**
 
- Guide #1 - ( [https://pshomeologylab.net/Cache](https://pshomeologylab.net/Cache) )
+### ✧ Extraction Guide ✧
+
+**Prerequisite :** Jailbroken PS3 required. Learn how here : [**`✧ How to Jailbreak ✧ `**](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot#%E2%9C%A7-how-to-jailbreak-%E2%9C%A7)
+
+With **HEN enabled**, do the following :
+
+1. Install multiMAN MOD 
+
+    - Download package ( .pkg ) @ [**`store.brewology.com`**](https://store.brewology.com/get/homebrew.php?id=24&fid=2412)
+  
+    - Copy the **`multiMAN MOD package`** onto a **`FAT32 USB Stick`**, then insert it into the **`rightmost USB port`** on the PS3.
+
+    - On the **`Game`** tab, go to **`Package Manager → Install Package Files → Standard`** then select a package to install.
+
+2. Open multiMAN MOD
+
+    - After installation, an icon titled **`multiMAN MOD`** ( looks like a bomb with glasses ) will appear on the **`Game`** tab. Launch it. You will be prompted with a four-page binding agreement. To proceed with using the application, you must select 'Yes' on each of the four pages.
+
+    - Once accepted, you will enter an interface resembling the PS3 XMB. Navigate all the way to the left to the **`mmCM`** tab, where you will find the option **`File Manager / mmOS`**. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> to open it.
+
+3. Extract the Cache with multiMAN MOD's File Explorer
+
+    - The **`File Manager / mmOS`** resmembles a typical OS desktop. Use the <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/RIGHTSTICK.png" alt="RIGHTSTICK.png" width="27"> to move the cursor, and double-tap <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> to launch applications and open folders. Knowing this, launch the main file explorer titled **`PS3™ Root`**.
+
+    - Once opened, navigate to the **`/dev_hdd0/game/`** directory. This is where the Playstation®Home cache was stored. Look for one of the following folder pairs:
+
+      **`NPIA00005`** / **`NPIA00005DATA`** ( **Retail** )  
+      **`NPIA00010`** / **`NPIA00010DATA`** ( **Developer** )  
+      **`NPEA00013`** / **`NPEA00013DATA`** ( **Developer / Closed Beta** )
+
+    - Copy both cache folders ( from any pair you see ) to the connected **`FAT32 USB stick`**. To do this:
+
+      - Hover over one of the folders, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CIRCLE.png" alt="CIRCLE.png" width="27">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> on **`Copy`**.
+
+      - Navigate back to the root directory using <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/DPADLEFTRIGHT.png" alt="DPADLEFTRIGHT.png" width="27">
+
+      - Enter the **`dev_usb000`** folder, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CIRCLE.png" alt="CIRCLE.png" width="27">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> on **`Paste`**.
+
+ 
  
 ### ✧ Public Archive ✧
 
@@ -124,55 +211,48 @@ A vast majority of Playstation®Home raw caches donated by it's former players a
 
 You can find individual download links here. ( [Google Sheets](https://docs.google.com/spreadsheets/d/1uR7IRGjkl_n5CMBua6zIQV5EKXdSk8_D-sTDoJGMe7c/edit?usp=sharing) ) 
 
-## ✧ How to Clone ✧ 
+## ✧ How to Jailbreak ✧ 
 
-There are two ways to clone this repository: using Git's API or using Hugging Face's Python based API. To keep things simple, the below methods will be geared toward Windows machines.   
+**`HFW 4.92 w/ HEN 3.4.0`**
 
-### ✧ Git ✧
+**Download required files @** [`JailbreakTools_4.92.1`](https://drive.google.com/file/d/1DWJTZ3gwBmSa1aj0ieZo3YsSmCk3NjiI/view?usp=sharing)
 
-With Git, you can the clone entire repository or clone specific folders. This repository is structured in a certian way to make it easier to clone specific folders.
+### ✧ Updating Your PS3 ✧ 
 
-1) Install Git with the stand alone installer ( [git-scm.com](https://git-scm.com/downloads/win) )
+Use the **`PS3UPDAT.PUP`** in the PS3 folder to update your PS3 onto **`HFW`** firmware. Follow these steps:
 
-2) Download and run the batch script ( [clone_repo.bat](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.bat) ), located in the root of the repository. You can run the script in any folder of your choice, but ensure you run it as an administrator.
+1. Copypaste the folder named **`PS3`** and the two **`PKG`** files onto a **`FAT32 USB Stick`**
+2. Insert the USB Stick into the **`rightmost USB port`** on the PS3.
+3. Go to the **`Settings`** tab on the PS3 XMB.  
+4. Select **`System Update`**.  
+5. Choose **`Update via Storage Media`** then run the update.
+> [!NOTE]
+> **If you do not see this option, reboot your PS3 into Safe Mode and perform the update from there.**
 
-     The script will ...
-     
-     1 ) Set a PATH environment variable for Git using the default install directory <code>C:\Program Files\Git\bin</code>. If that is not where your Git is installed then ensure you change the variables at the top of the script.
-     
-     2 ) Set up Git LFS.
+### ✧ Setting up the Browser ✧
 
-     3 ) Give three options. 
-     
-     Option 1 will clone the entire repository.
-     
-     Option 2 will clone specific folders based on a text file named FOLDER.TXT. The script creates a default FOLDER.TXT before initializing the Git repository—this default file is set to ignore all folders. Let the script finish. Afterwards, remove the "#" from the entries in FOLDER.TXT and rerun it. Initializing the repository will look something like this :
-     
-        Initialized empty Git repository in C:/Repos/PSHomeCacheDepot/.git/
-        Updating origin
-        remote: Enumerating objects: 635590, done.
-        remote: Counting objects: 100% (303481/303481), done.
-        remote: Compressing objects: 100% (284559/284559), done.
-        remote: Total 635590 (delta 11151), reused 51232 (delta 552), pack-reused 332109 (from 1)
-        Receiving objects: 100% (635590/635590), 640.76 MiB | 3.71 MiB/s, done.
-        Resolving deltas: 100% (99978/99978), done.
-        From https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot
-         * [new branch]            main       -> origin/main
-        sparse-checkout IS EMPTY. UNCOMMENT AN ENTRY IN FOLDER.TXT.
-        
-      Option 3 will update your local repo folder using the Git command <code>git pull</code>. If any changes are made to your local repo then you'll need to run <code>git stash</code> before you try to pull. 
-        
-### ✧ HuggingFace ✧
+After updating your PS3 to **`HFW 4.92`**, connect your PS3 to the internet (but **don't sign in**). Follow these steps:
 
-With the HuggingFace Python based API, only the entire repository can be cloned using the deprecated `Repository` class ( [Repository documentation](https://huggingface.co/docs/huggingface_hub/en/guides/repository#clone) ). The Python script below ( [clone_repo.py](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.py) ) will utilize this class until HuggingFace removes it. The documentation states to use the `snapshot_download` function ( [snapshot_download documentation](https://huggingface.co/docs/huggingface_hub/v0.29.3/en/package_reference/hf_api#huggingface_hub.HfApi.snapshot_download) ) in lieu of the `Repository` class but unforunately, it consistently errors out when attempting to clone the entire repository. On the bright side, the `Repository` class clones the repository exceptionally fast.
+1. Open the browser on your PS3.  
+2. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27"> and do the following:  
+   - Tools → Cookies → Allow  
+   - Tools → JavaScript → On  
+   - Tools → Confirm Browser Close → Off  
+   - Tools → Home Page → Blank  
+   - Tools → Delete Cookies → Yes  
+   - Tools → Delete Cache → Yes  
+3. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/START.png" alt="START.png" width="27"> to bring up the Address Bar.  
+4. Type in **[`http://ps3xploit.me`](http://ps3xploit.me)** then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/START.png" alt="START.png" width="27"> again. This will take you to the ps3xploit website.
 
-To clone the entire repository, …
+### ✧ Installing HEN 3.4.0 ✧ 
 
-1) Install Python's latest Window Installer ( [python.org](https://www.python.org/) )
-
-2) Install the API. Open a command prompt as administrator then run <code>pip install huggingface_hub</code>
-
-3) Download and run the python script ( [clone_repo.py](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.py) ), located in the root of the repository. You can run the script in any folder of your choice.
+1. On the top left of the ps3xploit page, go to **`PS3HEN → HEN Installer/Enabler`**. This opens the HEN Installer page at
+   **`http://ps3xploit.me/hen/installer/index.html`**  
+2. Assign the HEN Installer page as your homepage. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27">, then go to 
+   **`Tools → Home Page → Use Current → OK`**.  Exit and reopen the browser.  
+3. When you reopen the browser, it will download the **`PS3HEN.p3t`** payload. 
+4. Once downloaded, click **`Initialize HEN installer`**. *( It may fail the first time. If so, exit browser and try again. )*  
+5. Once initialized, click **`Install HEN`**. The system will reboot. After reboot, go to the **`Game`** tab on the PS3 XMB and press **`enable HEN`**. 
 
 ## ✧ Notable Mentions ✧ 
 
