@@ -107,6 +107,12 @@ Caches are needed to restore Playstation®Home to its fullest. When new content 
 
 If you happen to spot the Playstation®Home icon on your PS3, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27"> on the icon to view its information. You should see an **install date ( between 2008 and 2015 ) and a size ( from 3GB to 12GB )**. If the icon meets these criteria, please consider donating the data to one of the projects mentioned above by following the cache extraction guide below. If you cannot press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27"> on the icon, there is no data behind it. Similarly, if the install date is later than April 1st 2015, or the size is under 100MB, it indicates that Playstation®Home was either installed after its shutdown or was never logged into.
 
+### ✧ Public Archive ✧
+
+A vast majority of Playstation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. ( [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec) )
+
+You can find individual download links here. ( [Google Sheets](https://docs.google.com/spreadsheets/d/1uR7IRGjkl_n5CMBua6zIQV5EKXdSk8_D-sTDoJGMe7c/edit?usp=sharing) ) 
+
 ### ✧ Icons ✧ 
 
 <table align="center">
@@ -202,14 +208,6 @@ With **HEN enabled**, do the following :
       - Navigate back to the root directory using <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/DPADLEFTRIGHT.png" alt="DPADLEFTRIGHT.png" width="27"> .
 
       - Enter the **`dev_usb000`** folder, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CIRCLE.png" alt="CIRCLE.png" width="27">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> on **`Paste`**.
-
- 
- 
-### ✧ Public Archive ✧
-
-A vast majority of Playstation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. ( [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec) )
-
-You can find individual download links here. ( [Google Sheets](https://docs.google.com/spreadsheets/d/1uR7IRGjkl_n5CMBua6zIQV5EKXdSk8_D-sTDoJGMe7c/edit?usp=sharing) ) 
 
 ## ✧ How to Jailbreak ✧ 
 
