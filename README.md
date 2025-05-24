@@ -105,7 +105,7 @@ Playstation®Home had a lot of in-game content with a very unique loading system
 
 Caches are needed to restore Playstation®Home to its fullest. When new content is found, it can be added to the online public servers and thus be restored. A game can't function without it's assets. Playstation®Home was seperated into four regions and each region had it's own unique content and limited-time events. A large percentage of the content is still missing, most notably that from the Japanese region. This is why it is strongly encouraged for everyone to dust off their PS3 and **check for the Playstation®Home icon**. It is located under the **Playstation Network tab and resembles that of a house**. 
 
-If you happen to spot the Playstation®Home icon on your PS3, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27"> on the icon to view its information. You should see an **install date ( between 2008 and 2015 ) and a size ( from 3GB to 12GB )**. If the icon meets these criteria, please consider donating the data to one of the projects mentioned above by following the cache extraction guide below. If you cannot press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27"> on the icon, there is no data behind it. Similarly, if the install date is later than April 1st 2015, or the size is under 100MB, it indicates that Playstation®Home was either installed after its shutdown or was never logged into.
+If you happen to spot the Playstation®Home icon on your PS3, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon to view its information. You should see an **install date ( between 2008 and 2015 ) and a size ( from 3GB to 12GB )**. If the icon meets these criteria, please consider donating the data to one of the projects mentioned above by following the cache extraction guide below. If you cannot press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon, there is no data behind it. Similarly, if the install date is later than April 1st 2015, or the size is under 100MB, it indicates that Playstation®Home was either installed after its shutdown or was never logged into.
 
 ### ✧ Public Archive ✧
 
@@ -189,11 +189,11 @@ With **HEN enabled**, do the following :
 
     - After installation, an icon titled **`multiMAN MOD`** ( looks like a bomb with glasses ) will appear on the **`Game`** tab. Launch it. You will be prompted with a four-page binding agreement. To proceed with using the application, you must select 'Yes' on each of the four pages.
 
-    - Once accepted, you will enter an interface resembling the PS3 XMB. Navigate all the way to the left to the **`mmCM`** tab, where you will find the option **`File Manager / mmOS`**. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> to open it.
+    - Once accepted, you will enter an interface resembling the PS3 XMB. Navigate all the way to the left to the **`mmCM`** tab, where you will find the option **`File Manager / mmOS`**. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-cross-grey.png" alt="plain-cross-grey.png" width="18"> to open it.
 
 3. Extract the Cache with multiMAN MOD's File Explorer
 
-    - The **`File Manager / mmOS`** resmembles a typical OS desktop. Use <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/RIGHTSTICK.png" alt="RIGHTSTICK.png" width="27"> to move the cursor, and double-tap <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> to launch applications and open folders. Knowing this, launch the main file explorer titled **`PS3™ Root`**.
+    - The **`File Manager / mmOS`** resmembles a typical OS desktop. Use <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/outline R-grey.png" alt="outline R-grey.png" width="15"> to move the cursor, and double-tap <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-cross-grey.png" alt="plain-cross-grey.png" width="18"> to launch applications and open folders. Knowing this, launch the main file explorer titled **`PS3™ Root`**.
 
     - Once opened, navigate to the **`/dev_hdd0/game/`** directory. This is where the Playstation®Home cache was stored. Look for one of the following folder pairs:
 
@@ -203,11 +203,11 @@ With **HEN enabled**, do the following :
 
     - Copy both cache folders ( from any pair you see ) to the connected **`FAT32 USB stick`**. To do this:
 
-      - Hover over one of the folders, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CIRCLE.png" alt="CIRCLE.png" width="27">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> on **`Copy`**.
+      - Hover over one of the folders, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-circle-grey.png" alt="plain-circle-grey.png" width="18">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-cross-grey.png" alt="plain-cross-grey.png" width="18"> on **`Copy`**.
 
-      - Navigate back to the root directory using <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/DPADLEFTRIGHT.png" alt="DPADLEFTRIGHT.png" width="27"> .
+      - Navigate back to the root directory using <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/outline-left-grey.png" alt="outline-left-grey.png" width="18"> / <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/outline-right-grey.png" alt="outline-right-grey.png" width="18"> .
 
-      - Enter the **`dev_usb000`** folder, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CIRCLE.png" alt="CIRCLE.png" width="27">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/CROSS.png" alt="CROSS.png" width="27"> on **`Paste`**.
+      - Enter the **`dev_usb000`** folder, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-circle-grey.png" alt="plain-circle-grey.png" width="18">, then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-cross-grey.png" alt="plain-cross-grey.png" width="18"> on **`Paste`**.
 
 ## ✧ How to Jailbreak ✧ 
 
@@ -232,21 +232,21 @@ Use the **`PS3UPDAT.PUP`** in the PS3 folder to update your PS3 onto **`HFW`** f
 After updating your PS3 to **`HFW 4.92`**, connect your PS3 to the internet (but **don't sign in**). Follow these steps:
 
 1. Open the browser on your PS3.  
-2. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27"> and do the following:  
+2. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> and do the following:  
    - Tools → Cookies → Allow  
    - Tools → JavaScript → On  
    - Tools → Confirm Browser Close → Off  
    - Tools → Home Page → Blank  
    - Tools → Delete Cookies → Yes  
    - Tools → Delete Cache → Yes  
-3. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/START.png" alt="START.png" width="27"> to bring up the Address Bar.  
-4. Type in **[`http://ps3xploit.me`](http://ps3xploit.me)** then press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/START.png" alt="START.png" width="27"> again. This will take you to the ps3xploit website.
+3. Press ▻ to bring up the Address Bar.  
+4. Type in **[`http://ps3xploit.me`](http://ps3xploit.me)** then press ▻ again. This will take you to the ps3xploit website.
 
 ### ✧ Installing HEN 3.4.0 ✧ 
 
 1. On the top left of the ps3xploit page, go to **`PS3HEN → HEN Installer/Enabler`**. This opens the HEN Installer page at
    **`http://ps3xploit.me/hen/installer/index.html`**  
-2. Assign the HEN Installer page as your homepage. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/TRIANGLE.png" alt="TRIANGLE.png" width="27">, then go to 
+2. Assign the HEN Installer page as your homepage. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18">, then go to 
    **`Tools → Home Page → Use Current → OK`**.  Exit and reopen the browser.  
 3. When you reopen the browser, it will download the **`PS3HEN.p3t`** payload. 
 4. Once downloaded, click **`Initialize HEN installer`**. *( It may fail the first time. If so, exit browser and try again. )*  
