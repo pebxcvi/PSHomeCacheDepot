@@ -5,21 +5,21 @@
 
 ## ✧ Repository Overview ✧
 
-This repository is an archive of assets pertaining to **Playstation®Home**.
+This repository is an archive of assets pertaining to **PlayStation®Home**.
 
-Playstation®Home was an online social world video game that was on PS3. It was closed down by it's creator ( Sony Computer Entertainment ) on April 1st 2015. The Playstation®Home community strongly feels that Playstation®Home is an abandonded game and its assets to be lost media.
+PlayStation®Home was an online social world video game that was on PS3. It was closed down by it's creator ( Sony Computer Entertainment ) on April 1st 2015. The PlayStation®Home community strongly feels that PlayStation®Home is an abandonded game and its assets to be lost media.
 
 All assets archived here are deemed to be owned by Sony Computer Entertainment and their third party associates.
 
 These assets are sourced from ...
 
- - The JohnDrinkWater Playstation®Home Archive ( [johndrinkwater github repo](https://github.com/johndrinkwater/ps-home-archive) )
+ - The JohnDrinkWater PlayStation®Home Archive ( [johndrinkwater github repo](https://github.com/johndrinkwater/ps-home-archive) )
 
- - Donations made by past Playstation®Home users that voluntarily retrieved the data off their own PS3s.
+ - Donations made by past PlayStation®Home users that voluntarily retrieved the data off their own PS3s.
 
 ## ✧ Projects Involved ✧
 
-This repository is associated with the preservation projects listed below, which are open-sourced, non-profit initiatives operating under the legal framework established for emulation and preservation. The main goal is to preserve and restore Playstation®Home's content.
+This repository is associated with the preservation projects listed below, which are open-sourced, non-profit initiatives operating under the legal framework established for emulation and preservation. The main goal is to preserve and restore PlayStation®Home's content. They have helped keep PlayStation®Home faintly alive—well beyond the days of its prime. 
 
 ### ✧ Home Laboratory ✧
 
@@ -27,25 +27,47 @@ This repository is associated with the preservation projects listed below, which
 
 This project provides :
 
- - a more developer-oriented environment that includes, but is not limited to
+ - A more developer-oriented environment that includes, but is not limited to
 
-	- open source software for an Playstation®Home online server; either locally and/or public. ( [MultiServer3 Github Repo](https://github.com/GitHubProUser67/MultiServer3) )
+	- Open source software for an PlayStation®Home online server; either locally and/or public. ( [MultiServer3 Github Repo](https://github.com/GitHubProUser67/MultiServer3) )
 
-    - open source tools for handling Playstation®Home assets; either PC tools and/or Web tools. 
+    - Open source tools for handling PlayStation®Home assets; either PC tools and/or Web tools. 
        <br>Compiled: [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases) / 
        Source: [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
 
-	- support for getting everything setup and running as well as guidance into how Playstation®Home works.
+	- Support for getting everything setup and running as well as guidance into how PlayStation®Home works.
 
-	- the assets needed to create an Content Delivery Network ( CDN ) in some form or other.
+	- The assets needed to create an Content Delivery Network ( CDN ) in some form or other.
 	
- 	- transparent, in-depth progress updates on its restoration efforts.
+ 	- Transparent, in-depth progress updates on its restoration efforts.
 	
-	- a Playstation®Home scene database ( [google sheets](https://docs.google.com/spreadsheets/d/1acznLvA2k4I7yl56i3pCmAhzxG4pPcrx/edit?usp=sharing&ouid=113258013303427394442&rtpof=true&sd=true) ) 
+	- A PlayStation®Home scene database ( [google sheets](https://docs.google.com/spreadsheets/d/1acznLvA2k4I7yl56i3pCmAhzxG4pPcrx/edit?usp=sharing&ouid=113258013303427394442&rtpof=true&sd=true) ) 
 	
- - it's own Playstation®Home public server which supports both QA ( Developer ) and Retail ( Consumer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. ( [pshomeologylab.net](https://pshomeologylab.net/) )
+ - Its own dedicated PlayStation®Home public server which supports both Retail ( Consumer ) and QA ( Developer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. The server maintains an open stance toward glitching, custom content creation, and in-game modding. ( [pshomeologylab.net](https://pshomeologylab.net/) ) 
 
- - a Playstation®Home item ( object ) catalogue database and inventory management system for the PS®Homeology Lab online server, along with an external command module for the QA ( Developer ) build. ( [psho.me](http://psho.me/) )
+ - A PlayStation®Home item ( object ) catalogue database and inventory management system for the PSHomeology Lab online server, along with an external command module for the QA ( Developer ) build. ( [psho.me](http://psho.me/) )
+ 
+### ✧ PSORG ✧
+
+[Discord Server](https://discord.gg/psorg-756702841804030052)
+
+Short for **PSOnlineReturnalGaming**, this project provides :
+
+- A centralized revival hub for various publisher released games on the Sony platform :
+
+	- Started as an expansion of the open-source software formerly known as **deadlocked-server-now-horizons** — a PS2 Medius C# server emulator — the project was later extended to support PS3 with additional systems and packet handling, then eventually integrated into the MultiServer3 suite. ( [Horizon Private Server Github Repo](https://github.com/Jump-Suit/horizon-server-public-extended) )
+
+	- Support for various first-party PlayStation® titles that players may recognize, with gameplay statistics posted as binary data and analyzed using a dedicated external tool. ( [PSORG's Gitub Repo : SVO Stats Analyzer](https://github.com/PSOnlineReturnalGaming/SVO_Stats_Analyzer) )</br>
+
+	- Access multiple smaller online games on consoles and emulators through a unified DNS, bringing together players from different games to connect, converse, and play — all without needing to repeatedly change DNS settings.
+
+	- Frequent updates based on the game currently being restored — all while maintaining responsive support with a minimal team — with openness to community suggestions.
+
+	- Partial collaboration with Home Laboratory on the restoration of PlayStation®Home.
+
+- Its own dedicated PlayStation®Home online public server that supports **Retail**, **QA**, and **HDK** ( Home Development Kit ) developer builds—all running version 1.86—to facilitate content creation within each player’s isolated Content Delivery Network ( CDN ) environment. The server echos the PSHomeology Lab server’s beliefs in openness and post-release exploration. ( [psorg-web-revival.us](http://www.psorg-web-revival.us:15000) )
+
+- Various external support tools for PlayStation®Home online servers, such as the **Surface Support Frontend ( SSF )**—an interface that provides streamlined access to the game's existing Data Capture feature, used to capture and display real-time error logs from currently connected players. It also includes an interface for managing live server-side files such as the TSS ( Title Small Storage ), Message of the Day, Grief Reports, and much more. ( [PSX-Place : Surface Support Frontend](https://www.psx-place.com/threads/pre-release-surface-support-frontend-ssf.47165/) / [SSF Github Repo](https://github.com/Jump-Suit/PSHome-Surface-Support-Frontend ) )
 
 ## ✧ How to Clone This Repository ✧ 
 
@@ -97,19 +119,19 @@ To clone the entire repository, …
 
 3) Download and run the python script ( [clone_repo.py](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/blob/main/clone_repo.py) ), located in the root of the repository. You can run the script in any folder of your choice.
 
-## ✧ Playstation®Home Cache Information ✧ 
+## ✧ PlayStation®Home Cache Information ✧ 
 
 ### ✧ Cache Overview ✧
 
-Playstation®Home had a lot of in-game content with a very unique loading system. When a player logged into Playstation®Home, the game reserved a limited amount of space on the PS3's internal HDD for assets to be downloaded from Sony's server. Whenever a player interacted with an asset ( spaces ( scenes ), items/minigames ( objects ), posters, videos, etc ) in-game, it would download and store the assets temporarily until the reserved space was full. **These are referred to as "caches" and are only obtainable by gaining access to one's internal PS3 HDD via a jailbreak**. 
+PlayStation®Home had a lot of in-game content with a very unique loading system. When a player logged into PlayStation®Home, the game reserved a limited amount of space on the PS3's internal HDD for assets to be downloaded from Sony's server. Whenever a player interacted with an asset ( spaces ( scenes ), items/minigames ( objects ), posters, videos, etc ) in-game, it would download and store the assets temporarily until the reserved space was full. **These are referred to as "caches" and are only obtainable by gaining access to one's internal PS3 HDD via a jailbreak**. 
 
-Caches are needed to restore Playstation®Home to its fullest. When new content is found, it can be added to the online public servers and thus be restored. A game can't function without it's assets. Playstation®Home was seperated into four regions and each region had it's own unique content and limited-time events. A large percentage of the content is still missing, most notably that from the Japanese region. This is why it is strongly encouraged for everyone to dust off their PS3 and **check for the Playstation®Home icon**. It is located under the **Playstation Network tab and resembles that of a house**. 
+Caches are needed to restore PlayStation®Home to its fullest. When new content is found, it can be added to the online public servers and thus be restored. A game can't function without it's assets. PlayStation®Home was seperated into four regions and each region had it's own unique content and limited-time events. A large percentage of the content is still missing, most notably that from the Japanese region. This is why it is strongly encouraged for everyone to dust off their PS3 and **check for the PlayStation®Home icon**. It is located under the **PlayStation Network tab and resembles that of a house**. 
 
-If you happen to spot the Playstation®Home icon on your PS3, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon to view its information. You should see an **install date ( between 2008 and 2015 ) and a size ( from 3GB to 12GB )**. If the icon meets these criteria, please consider donating the data to one of the projects mentioned above by following the cache extraction guide below. If you cannot press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon, there is no data behind it. Similarly, if the install date is later than April 1st 2015, or the size is under 100MB, it indicates that Playstation®Home was either installed after its shutdown or was never logged into.
+If you happen to spot the PlayStation®Home icon on your PS3, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon to view its information. You should see an **install date ( between 2008 and 2015 ) and a size ( from 3GB to 12GB )**. If the icon meets these criteria, please consider donating the data to one of the projects mentioned above by following the cache extraction guide below. If you cannot press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon, there is no data behind it. Similarly, if the install date is later than April 1st 2015, or the size is under 100MB, it indicates that PlayStation®Home was either installed after its shutdown or was never logged into.
 
 ### ✧ Public Archive ✧
 
-A vast majority of Playstation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. ( [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec) )
+A vast majority of PlayStation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. ( [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec) )
 
 You can find individual download links here. ( [Google Sheets](https://docs.google.com/spreadsheets/d/1uR7IRGjkl_n5CMBua6zIQV5EKXdSk8_D-sTDoJGMe7c/edit?usp=sharing) ) 
 
@@ -153,11 +175,11 @@ You can find individual download links here. ( [Google Sheets](https://docs.goog
 
 ### ✧ Extraction Summary ✧ 
 
-To reiterate, in order to extract the Playstation®Home cache, it is **required to jailbreak your PS3** to gain access to its internal HDD. You will also **need a USB Stick** that's formated to the **FAT32** format. Most USB Sticks are FAT32 now days but if for some reason it's not, you will need to reformat it using a PC program called Rufus. If you have no USB Stick, do an internet search for "USB Stick 16GB FAT32" then order it.
+To reiterate, in order to extract the PlayStation®Home cache, it is **required to jailbreak your PS3** to gain access to its internal HDD. You will also **need a USB Stick** that's formated to the **FAT32** format. Most USB Sticks are FAT32 now days but if for some reason it's not, you will need to reformat it using a PC program called Rufus. If you have no USB Stick, do an internet search for "USB Stick 16GB FAT32" then order it.
 
 For newcomers, the PS3 jailbreak community **recommends updating your PS3 to the Hybrid Firmware ( HFW ) then installing the HEN software**. It is a Semi-untethered Jailbreak where the user has to enable HEN to go into a jailbroken state. When rebooting the PS3, it returns to a non-jailbroken state until the user enables HEN again. Because of this, it is considered to be **very safe**. 
 
-Once jailbroken, a **Homebrew application called multiMAN MOD ( mmCM )** can be used to **browse the PS3 directories** via its own File Manager / mmOS. Playstation®Home's cache folders will be **in the dev_hdd0/game/ directory** and can be **indentified by one of the below folder pairs**. **The objective is to copy the two folders from the PS3 to the FAT32 USB Stick.**
+Once jailbroken, a **Homebrew application called multiMAN MOD ( mmCM )** can be used to **browse the PS3 directories** via its own File Manager / mmOS. PlayStation®Home's cache folders will be **in the dev_hdd0/game/ directory** and can be **indentified by one of the below folder pairs**. **The objective is to copy the two folders from the PS3 to the FAT32 USB Stick.**
 
 **`NPIA00005`** / **`NPIA00005DATA`** ( **Retail** )  
 **`NPIA00010`** / **`NPIA00010DATA`** ( **Developer** )  
@@ -169,7 +191,7 @@ After the PS3 has extracted the data onto your USB stick, insert it into your co
 
 
 > [!WARNING]
-> **Most Playstation®Home caches are safe to share, but some may contain a file called `DATALOG.DAT`, which can include the original player’s IP address and Playstation Network ID. If you'd like to remove this file before zipping the folders, you’re welcome to do so. We also remove it before publicly archiving any cache. You can typically find it in a directory such as `/NPIA00005/USRDIR/`.**
+> **Most PlayStation®Home caches are safe to share, but some may contain a file called `DATALOG.DAT`, which can include the original player’s IP address and PlayStation Network ID. If you'd like to remove this file before zipping the folders, you’re welcome to do so. We also remove it before publicly archiving any cache. You can typically find it in a directory such as `/NPIA00005/USRDIR/`.**
 
 ### ✧ Extraction Guide ✧
 
@@ -195,7 +217,7 @@ With **HEN enabled**, do the following :
 
     - The **`File Manager / mmOS`** resmembles a typical OS desktop. Use <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/outline R-grey.png" alt="outline R-grey.png" width="15"> to move the cursor, and double-tap <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-cross-grey.png" alt="plain-cross-grey.png" width="18"> to launch applications and open folders. Knowing this, launch the main file explorer titled **`PS3™ Root`**.
 
-    - Once opened, navigate to the **`/dev_hdd0/game/`** directory. This is where the Playstation®Home cache was stored. Look for one of the following folder pairs:
+    - Once opened, navigate to the **`/dev_hdd0/game/`** directory. This is where the PlayStation®Home cache was stored. Look for one of the following folder pairs:
 
       **`NPIA00005`** / **`NPIA00005DATA`** ( **Retail** )  
       **`NPIA00010`** / **`NPIA00010DATA`** ( **Developer** )  
@@ -254,7 +276,7 @@ After updating your PS3 to **`HFW 4.92`**, connect your PS3 to the internet (but
 
 ## ✧ Notable Mentions ✧ 
 
-The following individuals are key figures spearheading the revolution of Playstation®Home Online as a fully open-source environment :
+The following individuals are key figures spearheading the revolution of PlayStation®Home Online as a fully open-source environment :
 
 - **AgentDark447** ( [github](https://github.com/GitHubProUser67) )
 - **Jumpsuit** ( [github](https://github.com/Jump-Suit) )
