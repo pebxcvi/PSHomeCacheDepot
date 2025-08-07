@@ -159,7 +159,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
    - Source : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor)
 
 3) Nautilus
-   - This is a stand-alone GUI appliation for handling PlayStation®Home assets using Multiserver3's backend.
+   - This is a stand-alone Windows GUI appliation for handling PlayStation®Home assets using Multiserver3's backend.
    - Compiled : [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases)
    - Source : [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
 
