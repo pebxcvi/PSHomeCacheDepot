@@ -31,17 +31,13 @@ This project provides :
 
 	- Open source software for an PlayStation®Home online server; either locally and/or public. ( [MultiServer3 Github Repo](https://github.com/GitHubProUser67/MultiServer3) )
 
-    - Open source tools for handling PlayStation®Home assets; either PC tools and/or Web tools. 
-       <br>Compiled: [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases) / 
-       Source: [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
-
 	- Support for getting everything setup and running as well as guidance into how PlayStation®Home works.
 
 	- The assets needed to create an Content Delivery Network ( CDN ) in some form or other.
+
+   	- Open source tools for handling PlayStation®Home assets. 
 	
  	- Transparent, in-depth progress updates on its restoration efforts.
-	
-	- A PlayStation®Home scene database ( [google sheets](https://docs.google.com/spreadsheets/d/1acznLvA2k4I7yl56i3pCmAhzxG4pPcrx/edit?usp=sharing&ouid=113258013303427394442&rtpof=true&sd=true) ) 
 	
  - Its own dedicated PlayStation®Home public server which supports both Retail ( Consumer ) and QA ( Developer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. The server maintains an open stance toward glitching, custom content creation, and in-game modding. ( [pshomeologylab.net](https://pshomeologylab.net/) ) 
 
@@ -129,13 +125,49 @@ Caches are needed to restore PlayStation®Home to its fullest. When new content 
 
 If you happen to spot the PlayStation®Home icon on your PS3, press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon to view its information. You should see an **install date ( between 2008 and 2015 ) and a size ( from 3GB to 12GB )**. If the icon meets these criteria, please consider donating the data to one of the projects mentioned above by following the cache extraction guide below. If you cannot press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> on the icon, there is no data behind it. Similarly, if the install date is later than April 1st 2015, or the size is under 100MB, it indicates that PlayStation®Home was either installed after its shutdown or was never logged into.
 
-### ✧ Public Archive ✧
+### ✧ Public Cache Archive ✧
 
-A vast majority of PlayStation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. ( [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec) )
+A vast majority of PlayStation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. 
 
-You can find individual download links here. ( [Google Sheets](https://docs.google.com/spreadsheets/d/1uR7IRGjkl_n5CMBua6zIQV5EKXdSk8_D-sTDoJGMe7c/edit?usp=sharing) ) 
+> [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec)
 
-### ✧ Icons ✧ 
+You can find individual download links here. 
+
+> [Google Sheets](https://docs.google.com/spreadsheets/d/1uR7IRGjkl_n5CMBua6zIQV5EKXdSk8_D-sTDoJGMe7c/edit?usp=sharing)
+
+### ✧ Archive Progression ✧
+
+**```Scenes :```**
+
+A spreadsheet showcasing how many Scenes are archived versus how many are missing, using various data points as references such as Scene lists.
+
+> [Google Sheets](https://docs.google.com/spreadsheets/d/1acznLvA2k4I7yl56i3pCmAhzxG4pPcrx/edit?usp=sharing&ouid=113258013303427394442&rtpof=true&sd=true)
+
+**```Objects :```**
+
+A snippet showcasing how many Objects are archived how many are missing, using the Object Catalogue at Home End as the reference.
+
+> ![Objects](https://media.discordapp.net/attachments/1133824324583829606/1398822448756953279/image.png?ex=689542ec&is=6893f16c&hm=8abb3a8df04f560fec7dccc4ebb1dc5d39aeed3df61dc84972bbf389dbac2d6e&=&format=webp&quality=lossless&width=700&height=276)
+
+### ✧ Cache Tools ✧
+
+Here are a few fully open-sourced tools from the Home Laboratory Project :
+
+1) PSHome Cache Extractor
+   - This is a Windows batch script for the logging of PlayStation®Home raw caches. It utilizes various scripts/programs such as DEINF2.0. 
+   - Compiled : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor/releases/tag/v3.5.5)
+   - Source : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor)
+
+3) Nautilus
+   - This is a stand-alone GUI appliation for handling PlayStation®Home assets using Multiserver3's backend.
+   - Compiled : [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases)
+   - Source : [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
+
+4)  HomeWebTools
+    - This is a plugin for Multiserver3's ApachNet web server for handling PlayStation®Home assets. It is a basic HTML webpage.
+    - Source : [HomeWebTools](https://github.com/GitHubProUser67/MultiServer3/tree/main/Plugins/HTTP/HomeWebTools)
+
+### ✧ Cache Icons ✧ 
 
 <table align="center">
   <tr>
@@ -239,6 +271,13 @@ With **HEN enabled**, do the following :
 
 ### ✧ Updating Your PS3 ✧ 
 
+> [!WARNING]
+> **Please ensure the PS3’s Wi-Fi and Bluetooth are working BEFORE updating!**	
+> **You WILL get stuck in an update loop if either of these are broken!**
+
+> [!NOTE]
+> **If you do not see the "`Update via Storage Media" option under System Update, you MUST reboot your PS3 into Safe Mode and perform the update from there.**
+
 Use the **`PS3UPDAT.PUP`** in the PS3 folder to update your PS3 onto **`HFW`** firmware. Follow these steps:
 
 1. Copypaste the folder named **`PS3`** and the two **`PKG`** files onto a **`FAT32 USB Stick`**
@@ -246,8 +285,6 @@ Use the **`PS3UPDAT.PUP`** in the PS3 folder to update your PS3 onto **`HFW`** f
 3. Go to the **`Settings`** tab on the PS3 XMB.  
 4. Select **`System Update`**.  
 5. Choose **`Update via Storage Media`** then run the update.
-> [!NOTE]
-> **If you do not see this option, reboot your PS3 into Safe Mode and perform the update from there.**
 
 ### ✧ Setting up the Browser ✧
 
