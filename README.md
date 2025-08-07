@@ -35,9 +35,9 @@ This project provides :
 
 	- The PlayStation®Home assets needed to create an Content Delivery Network ( CDN ) in some form or other.
 
-   	- Open source tools for handling PlayStation®Home assets.  ( [Cache Tools](https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/README.md#-cache-tools-) )
+   	- Open source tools for handling PlayStation®Home assets.  ( [✧ Cache Tools ✧](https://github.com/pebxcvi/PSHomeCacheDepot#-cache-tools-) )
 	
- 	- Transparent, in-depth progress updates on its preservation and restoration efforts for PlayStation®Home. ( [Archive Progression](https://github.com/pebxcvi/PSHomeCacheDepot/edit/main/README.md#-archive-progression- ) )
+ 	- Transparent, in-depth progress updates on its preservation and restoration efforts for PlayStation®Home. ( [✧ Archive Progression ✧](https://github.com/pebxcvi/PSHomeCacheDepot/#-archive-progression-) )
 	
  - Its own dedicated PlayStation®Home public server which supports both Retail ( Consumer ) and QA ( Developer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. The server maintains an open stance toward glitching, custom content creation, and in-game modding. ( [pshomeologylab.net](https://pshomeologylab.net/) ) 
 
