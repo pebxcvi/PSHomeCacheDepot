@@ -145,7 +145,7 @@ A spreadsheet showcasing how many Scenes are archived versus how many are missin
 
 **```Objects :```**
 
-A snippet showcasing how many Objects are archived how many are missing, using the Object Catalogue at Home End as the reference.
+A snippet showcasing how many Objects are archived verus how many are missing, using the Object Catalogue at Home End as the reference.
 
 > ![Objects](https://media.discordapp.net/attachments/1133824324583829606/1398822448756953279/image.png?ex=689542ec&is=6893f16c&hm=8abb3a8df04f560fec7dccc4ebb1dc5d39aeed3df61dc84972bbf389dbac2d6e&=&format=webp&quality=lossless&width=700&height=276)
 
