@@ -13,7 +13,7 @@ All assets archived here are deemed to be owned by Sony Computer Entertainment a
 
 These assets are sourced from ...
 
- - The JohnDrinkWater PlayStation®Home Archive ( [johndrinkwater github repo](https://github.com/johndrinkwater/ps-home-archive) )
+ - The JohnDrinkWater PlayStation®Home Archive ( [JohnDrinkWater Github Repo](https://github.com/johndrinkwater/ps-home-archive) )
 
  - Donations made by past PlayStation®Home users that voluntarily retrieved the data off their own PS3s.
 
@@ -23,7 +23,7 @@ This repository is associated with the preservation projects listed below, which
 
 ### ✧ Home Laboratory ✧
 
-[Discord Server](https://discord.gg/NAUttdtPS5)
+[Home Laboratory Discord Server](https://dsc.gg/homelaboratory)
 
 This project provides :
 
@@ -45,7 +45,7 @@ This project provides :
  
 ### ✧ PSORG ✧
 
-[Discord Server](https://discord.gg/psorg-756702841804030052)
+[PSORG Discord Server](https://discord.gg/psorg-756702841804030052)
 
 Short for **PSOnlineReturnalGaming**, this project provides :
 
