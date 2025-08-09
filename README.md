@@ -219,11 +219,17 @@ Once jailbroken, a **Homebrew application called multiMAN MOD ( mmCM )** can be 
 
 The jailbreak should take 10 minutes tops and the data extraction should take 30 minutes to 90 minutes tops depending on the number of files. 
 
-After the PS3 has extracted the data onto your USB stick, insert it into your computer, transfer the data, then **zip the two folders and upload the resulting file to a cloud service** of your choice (e.g., Google Drive, Mega, etc.). Then, **join one of the Discord servers** linked above and post the link in the appropriate channel. Upon request, a comprehensive analysis of the cache—detailing its contents and any new files discovered—is available.
+After the PS3 has extracted the data onto your USB stick, insert it into your computer, transfer the data, then **zip the two folders up and upload the resulting file to a cloud service** of your choice (e.g., Google Drive, Mega, etc.). If Google Drive is used, please ensure to set the General Access to Viewer : "Anyone with the link."
 
+Finally, join one of the Discord servers linked above and post the link in the appropriate channel.
+
+Upon request, a comprehensive analysis of the cache—detailing its contents and any new files discovered—is available.
 
 > [!WARNING]
 > **Most PlayStation®Home caches are safe to share, but some may contain a file called `DATALOG.DAT`, which can include the original player’s IP address and PlayStation Network ID. If you'd like to remove this file before zipping the folders, you’re welcome to do so. We also remove it before publicly archiving any cache. You can typically find it in a directory such as `/NPIA00005/USRDIR/`.**
+
+> [!NOTE]
+> If Google Drive is used, please ensure to set the General Access to Viewer : "Anyone with the link."
 
 ### ✧ Extraction Guide ✧
 
