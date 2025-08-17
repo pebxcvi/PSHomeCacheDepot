@@ -19,7 +19,7 @@ These assets are sourced from ...
 
 ## ✧ Projects Involved ✧
 
-This repository is associated with the preservation projects listed below, which are open-sourced, non-profit initiatives operating under the legal framework established for emulation and preservation. The main goal is to preserve and restore PlayStation®Home's content. They have helped keep PlayStation®Home faintly alive—well beyond the days of its prime. 
+This repository is associated with the preservation projects listed below, which are open-sourced, non-profit initiatives operating under the legal framework established for emulation and preservation. The main goal is to preserve and restore PlayStation®Home's content. They have helped keep PlayStation®Home faintly alive—well beyond the days of its prime. None of the preservation projects listed below are affiliated with Sony Computer Entertainment, its developer London Studio, or its third-party developers.
 
 ### ✧ Home Laboratory ✧
 
