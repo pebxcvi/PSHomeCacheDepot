@@ -155,7 +155,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 
 1) PSHome Cache Extractor
    - This is a Windows batch script for the logging of PlayStation®Home raw caches. It utilizes various scripts/programs such as DEINF2.0. 
-   - Compiled : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor/releases/tag/v3.5.5)
+   - Compiled : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor/releases/tag/v3.5.6)
    - Source : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor)
 
 3) Nautilus
