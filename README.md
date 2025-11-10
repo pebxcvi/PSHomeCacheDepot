@@ -29,7 +29,7 @@ This project provides :
 
  - A more developer-oriented environment that includes, but is not limited to
 
-	- Open source software for an PlayStation®Home online server; either locally and/or public. ( [MultiServer3 Github Repo](https://github.com/GitHubProUser67/MultiServer3) )
+	- Open source software for an PlayStation®Home online server; either locally and/or public. ( [MultiServer Github Repo](https://github.com/GitHubProUser67/MultiServer3) )
 
 	- Support for getting everything setup and running as well as guidance into how PlayStation®Home works.
 
@@ -51,7 +51,7 @@ Short for **PSOnlineReturnalGaming**, this project provides :
 
 - A centralized revival hub for various publisher released games on the Sony platform :
 
-	- Started as an expansion of the open-source software formerly known as **deadlocked-server-now-horizons** — a PS2 Medius C# server emulator — the project was later extended to support PS3 with additional systems and packet handling, then eventually integrated into the MultiServer3 suite. ( [Horizon Private Server Github Repo](https://github.com/Jump-Suit/horizon-server-public-extended) )
+	- Started as an expansion of the open-source software formerly known as **deadlocked-server-now-horizons** — a PS2 Medius C# server emulator — the project was later extended to support PS3 with additional systems and packet handling, then eventually integrated into the MultiServer suite. ( [Horizon Private Server Github Repo](https://github.com/Jump-Suit/horizon-server-public-extended) )
 
 	- Support for various first-party PlayStation® titles that players may recognize, with gameplay statistics posted as binary data and analyzed using a dedicated external tool. ( [PSORG's Gitub Repo : SVO Stats Analyzer](https://github.com/PSOnlineReturnalGaming/SVO_Stats_Analyzer) )</br>
 
@@ -159,13 +159,13 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
    - Source : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor)
 
 3) Nautilus
-   - This is a stand-alone Windows GUI appliation for handling PlayStation®Home assets using Multiserver3's backend.
+   - This is a stand-alone Windows GUI appliation for handling PlayStation®Home assets using Multiserver's backend.
    - Compiled : [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases)
    - Source : [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
 
 4)  HomeWebTools
-    - This is a plugin for Multiserver3's ApachNet web server for handling PlayStation®Home assets. It is a basic HTML webpage.
-    - Source : [HomeWebTools](https://github.com/GitHubProUser67/MultiServer3/tree/main/Plugins/HTTP/HomeWebTools)
+    - This is a plugin for Multiserver's ApachNet web server for handling PlayStation®Home assets. It is a basic HTML webpage.
+    - Source : [HomeWebTools](https://github.com/GitHubProUser67/MultiServer3/tree/Super-Branch/Plugins/HTTP/HomeWebTools)
 
 ### ✧ Cache Icons ✧ 
 
