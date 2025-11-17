@@ -41,7 +41,7 @@ This project provides :
 	
  - Its own dedicated PlayStation®Home public server which supports both QA ( Developer ) and Retail ( Consumer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. The server maintains an open stance toward glitching, custom content creation, and in-game modding. ( [https://pshomeologylab.net](https://pshomeologylab.net/) ) 
 
- - A PlayStation®Home item ( object ) catalogue database and inventory management system for the PSHomeology Lab online server, along with an external command module for the QA ( Developer ) build. ( [http://psho.me](http://psho.me/) )
+ - A PlayStation®Home item ( object ) catalogue database and inventory management system for the PSHomeology Lab online server, along with an external command module for the QA ( Developer ) build. ( [https://psho.me](https://psho.me/) )
  
 ### ✧ PSORG ✧
 
