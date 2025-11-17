@@ -39,7 +39,7 @@ This project provides :
 	
  	- Transparent, in-depth progress updates on its preservation and restoration efforts for PlayStation®Home. ( [✧ Archive Progression ✧](https://github.com/pebxcvi/PSHomeCacheDepot/#-archive-progression-) )
 	
- - Its own dedicated PlayStation®Home public server which supports both Retail ( Consumer ) and QA ( Developer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. The server maintains an open stance toward glitching, custom content creation, and in-game modding. ( [https://pshomeologylab.net](https://pshomeologylab.net/) ) 
+ - Its own dedicated PlayStation®Home public server which supports both QA ( Developer ) and Retail ( Consumer ) builds for version 1.86. It is playable on both a Jailbroken PS3 and the RPCS3 emulator. The server maintains an open stance toward glitching, custom content creation, and in-game modding. ( [https://pshomeologylab.net](https://pshomeologylab.net/) ) 
 
  - A PlayStation®Home item ( object ) catalogue database and inventory management system for the PSHomeology Lab online server, along with an external command module for the QA ( Developer ) build. ( [http://psho.me](http://psho.me/) )
  
