@@ -158,14 +158,10 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
    - Compiled : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor/releases/tag/v3.5.6)
    - Source : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor)
 
-3) Nautilus
+2) Nautilus
    - This is a stand-alone Windows GUI appliation for handling PlayStation®Home assets using Multiserver's backend.
    - Compiled : [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases)
    - Source : [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
-
-4)  HomeWebTools
-    - This is a plugin for Multiserver's ApachNet web server for handling PlayStation®Home assets. It is a basic HTML webpage.
-    - Source : [HomeWebTools](https://github.com/GitHubProUser67/MultiServer3/tree/Super-Branch/Plugins/HTTP/HomeWebTools)
 
 ### ✧ Cache Icons ✧ 
 
@@ -200,7 +196,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons/ICON5.PNG" alt="ICON0"><br>
-      <span>v0.41 - v0.73<br>GDC 2007 Demo<br>Game Tab</span>
+      <span>v0.41 - v0.74<br>GDC 2007 Demo<br>Game Tab</span>
     </td>
   </tr>
 </table>
