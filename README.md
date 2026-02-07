@@ -212,11 +212,22 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
   </tr>
 </table>
 
+<br>
+
 <table align="center">
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons/ICON6.PNG" alt="ICON6" width="250"><br>
+    <td align="center" style="padding:10px;">
+      <img
+        src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons/ICON6.PNG" alt="ICON6"><br>
       <span>Developer Build v1.22<br>-<br>Game Tab</span>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="320" alt=""><br>
+      <span>-<br>-<br>-</span>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" width="320" alt=""><br>
+      <span>-<br>-<br>-</span>
     </td>
   </tr>
 </table>
