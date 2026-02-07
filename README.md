@@ -142,7 +142,7 @@ You can find individual download links here.
 
 **```Scenes :```**
 
-A Google Sheets spreadsheet showcasing how many Scenes are archived versus how many are missing, using various data points as references such as Scene lists.
+A Google Sheet showcasing how many Scenes are archived versus how many are missing, using various data points as references such as Scene lists.
 
 > [Google Sheets](https://docs.google.com/spreadsheets/d/1acznLvA2k4I7yl56i3pCmAhzxG4pPcrx/edit?usp=sharing&ouid=113258013303427394442&rtpof=true&sd=true)
 
