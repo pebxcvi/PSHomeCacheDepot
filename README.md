@@ -127,6 +127,9 @@ If you happen to spot the PlayStation®Home icon on your PS3, press <img src="ht
 
 ### ✧ Public Cache Archive ✧
 
+> [!NOTE]
+> To eliminate a failure point, a mirror of the google drive was uploaded to Internet Archive https://archive.org/details/PSHomeRawCacheDepot 
+
 A vast majority of PlayStation®Home raw caches donated by it's former players are archived publicly in this google drive with logs included. 
 
 > [Google Drive](https://drive.google.com/drive/u/1/folders/1Wuk2GNsXOZ_qLJFqtg0gExRpZqxL3sec)
@@ -148,6 +151,10 @@ A spreadsheet showcasing how many Scenes are archived versus how many are missin
 A snippet showcasing how many Objects are archived verus how many are missing, using the Object Catalogue at Home End as the reference.
 
 > <img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectProgressJuly112025.png" alt="Objects" width="70%">
+
+A full list of the Objects folder can be downloaded here within the repository :
+
+> [OBJECT_QUERY.txt](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/OBJECTS/OBJECT_QUERY.txt?download=true)
 
 ### ✧ Cache Tools ✧
 
