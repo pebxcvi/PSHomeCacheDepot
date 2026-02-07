@@ -215,7 +215,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons/ICON6.PNG" alt="ICON5"><br>
+      <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons/ICON6.PNG" alt="ICON6" width="310"><br>
       <span>Developer Build v1.22<br>-<br>Game Tab</span>
     </td>
   </tr>
