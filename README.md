@@ -61,7 +61,7 @@ Short for **PSOnlineReturnalGaming**, this project provides :
 
 	- Partial collaboration with Home Laboratory on the restoration of PlayStation®Home.
 
-- Its own dedicated PlayStation®Home online public server that supports **Retail**, **QA**, and **HDK** ( Home Development Kit ) developer builds—all running version 1.86—to facilitate content creation within each player’s isolated Content Delivery Network ( CDN ) environment. The server echos the PSHomeology Lab server’s beliefs in openness and post-release exploration. ( [psorg-web-revival.us](http://www.psorg-web-revival.us:15000) )
+- Its own dedicated PlayStation®Home online public server that supports **Retail**, **QA**, and **HDK** ( Home Development Kit ) developer builds—all running version 1.86—to facilitate content creation within each player’s isolated Content Delivery Network ( CDN ) environment. The server echos the PSHomeology Lab server’s beliefs in openness and post-release exploration. ( [psorg-web-revival.us](http://www.psorg-web-revival.us/ ) )
 
 - Various external support tools for PlayStation®Home online servers, such as the **Surface Support Frontend ( SSF )**—an interface that provides streamlined access to the game's existing Data Capture feature, used to capture and display real-time error logs from currently connected players. It also includes an interface for managing live server-side files such as the TSS ( Title Small Storage ), Message of the Day, Grief Reports, and much more. ( [PSX-Place : Surface Support Frontend](https://www.psx-place.com/threads/pre-release-surface-support-frontend-ssf.47165/) / [SSF Github Repo](https://github.com/Jump-Suit/PSHome-Surface-Support-Frontend ) )
 
