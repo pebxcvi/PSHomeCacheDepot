@@ -13,7 +13,9 @@ All assets archived here are deemed to be owned by Sony Computer Entertainment a
 
 These assets are sourced from ...
 
- - The JohnDrinkWater PlayStation®Home Archive ( [JohnDrinkWater Github Repo](https://github.com/johndrinkwater/ps-home-archive) )
+ - The JohnDrinkWater PlayStation®Home Archive
+   - [JohnDrinkWater Github Repo](https://github.com/johndrinkwater/ps-home-archive)
+   - [JohnDrinkWater Archive.org Collection](https://archive.org/details/psm_home_archive_2015_04_01)
 
  - Donations made by past PlayStation®Home users that voluntarily retrieved the data off their own PS3s.
 
