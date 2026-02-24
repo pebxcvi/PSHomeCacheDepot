@@ -17,7 +17,7 @@ These assets are sourced from ...
    - [JohnDrinkWater Github Repo](https://github.com/johndrinkwater/ps-home-archive)
    - [JohnDrinkWater Archive.org Collection](https://archive.org/details/psm_home_archive_2015_04_01)
 
- - Donations made by past PlayStation®Home users that voluntarily retrieved the data off their own PS3s.
+ - Cache donations contributed by former PlayStation®Home users who voluntarily retrieved the data from their own PS3 systems.
 
 ## ✧ Projects Involved ✧
 
