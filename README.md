@@ -234,6 +234,63 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
   </tr>
 </table>
 
+### ✧ Cache Version History ✧ 
+
+<details>
+<summary><b>PlayStation®Home Versions</b></summary>
+-
+
+**`💡 Note: Subject to change based on new information found! If anyone has additional information, please contact us.`**
+
+
+| Version | Type | Note | Est. Release Date | Link Refs |
+|----------|-----------|----------|----------|----------|
+| 0.41 |Closed Beta|GDC Demo Build||[youtube.com](https://www.youtube.com/watch?v=n82yN6myLgg)<br>[youtube.com](https://www.youtube.com/watch?v=I8ore7INF4Q)<br>[youtube.com](https://www.youtube.com/watch?v=UCWYG2syuhI)<br>[youtube.com](https://www.youtube.com/watch?v=DOyQD3wprlM)<br>[youtube.com](https://www.youtube.com/watch?v=LvK6eKAymVQ)
+| 0.73 |Closed Beta|GDC Demo Build|Sep 13 2007<br>Thursday|[youtube.com](https://www.youtube.com/watch?v=w4LskmuURPs)
+| 0.74 |Closed Beta|GDC Demo Build||[youtube.com](https://www.youtube.com/watch?v=H4ooVorshns)
+| 0.77 |Closed Beta|GDC Demo Build|Nov 26 2007<br>Monday|[psu.com](https://www.psu.com/news/home-beta-build-0-7-7-out-now/)<br>[web.archive.org](https://web.archive.org/web/20080209184209/https://ps3forums.com/showthread.php?t=111279)<br>[youtube.com](https://www.youtube.com/watch?v=imWSYLicOZA)<br>[youtube.com](https://www.youtube.com/watch?v=1_FMJOO8CeQ)
+| 0.83 |Closed Beta||Feb 28 2008<br>Thursday|[gamrconnect.vgchartz.com](https://gamrconnect.vgchartz.com/thread/18218/playstation-home-closed-beta-gets-an-update/)<br>[youtube.com](https://www.youtube.com/watch?v=W-plhS0wx0w)<br>[youtube.com](https://www.youtube.com/watch?v=6pgrYRhHoGY)<br>[youtube.com](https://www.youtube.com/watch?v=mHTcxm5OPSg)<br>[youtube.com](https://www.youtube.com/watch?v=tlVZQumnoOU)<br>[youtube.com](https://www.youtube.com/watch?v=HvPJNYfeSoc)<br>[youtube.com](https://www.youtube.com/watch?v=0x0rB9uXpEA)
+| 0.86 |Closed Beta||May 23 2008<br>Friday|[psu.com](https://www.psu.com/news/home-beta-updated-media-and-events-space-revealed/)<br>[web.archive.org](https://web.archive.org/web/20080527230933/http://scrawlfx.com/2008/05/home-beta-update-086-comes-with-new-space)<br>[web.archive.org](https://web.archive.org/web/20080828004703/http://www.ps3vault.com/playstation-home-beta-updated-again-2832)<br>[web.archive.org](https://web.archive.org/web/20080528102638/http://scrawlfx.com:80/2008/05/playstation-home-event-venue-officially-revealed)<br>[youtube.com](https://www.youtube.com/watch?v=uTECmA4lMVU)
+| 0.94 |Closed Beta||Jun 25 2008<br>Wednesday|[web.archive.org](https://web.archive.org/web/20080702011025/http://scrawlfx.com:80/2008/06/home-beta-update-v0942-coming-june-25-2008)<br>[xtremeps3.com](https://www.xtremeps3.com/2008/06/23/playstation-home-gets-updated-to-v0942-on-june-25th/amp/)<br>[youtube.com](https://www.youtube.com/watch?v=e3VFdKg-0f0)
+| 0.96 |Closed Beta||Jul 31 2008<br>Thursday|[psu.com](https://www.psu.com/news/home-beta-v0-96-3-coming-this-week/)<br>[web.archive.org](https://web.archive.org/web/20080911214209/http://www.watch.impress.co.jp/game/docs/20080731/pshome.htm)
+| 0.98 |Closed Beta||Aug 28 2008<br>Thursday|[psu.com](https://www.psu.com/news/psu-exclusive-home-beta-0-98-video-walkthrough/)<br>[web.archive.org](https://web.archive.org/web/20080830084635/http://www.ps3fanboy.com/2008/08/29/home-beta-client-updated-to-version-0-98/)<br>[youtube.com](https://www.youtube.com/watch?v=skR0IJme2uQ)<br>[youtube.com](https://www.youtube.com/watch?v=XCE0BIyKq9E)<br>[youtube.com](https://www.youtube.com/watch?v=vqfHThPPtj8)<br>[youtube.com](https://www.youtube.com/watch?v=z6PhCd1GO0w)
+| 1.00 |Closed Beta||Nov 20 2008<br>Thursday|[gematsu.com](https://www.gematsu.com/2008/11/playstation-home-v100-now-available-to-beta-testers)<br>[ign.com](https://www.ign.com/articles/2008/11/21/playstation-home-details)
+| 1.01 |Closed Beta||Nov 27 2008<br>Thursday|[psu.com](https://www.psu.com/news/update-playstation-home-v-1-01-goes-live/)<br>[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/46819968)
+| 1.02 |Closed Beta||Dec 5 2008<br>Friday|[youtube.com](https://www.youtube.com/watch?v=zjzmdegx-oI)<br>[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/46961511)
+| 1.03 |Open Beta|1st Day|Dec 11 2008<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2008/12/10/playstation-home-open-beta-launches-tomorrow/)<br>[blog.playstation.com](https://blog.playstation.com/2008/12/11/playstation-home-is-now-live/)<br>[blog.playstation.com](https://blog.playstation.com/2008/12/12/playstation-home-beta-update/)<br>[youtube.com](https://www.youtube.com/watch?v=XOdMEKTIREA)<br>[youtube.com](https://www.youtube.com/watch?v=j4hIzoz3ytE)
+| 1.04 |Open Beta||Dec 18 2008<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2008/12/17/playstation-home-system-maintenance/)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2008/12/18/playstation-home-104-patch-details/)<br>[slashgear.com](https://www.slashgear.com/sony-playstation-home-offline-today-for-104-software-update-1826859/)<br>[web.archive.org](https://web.archive.org/web/20091216154012/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=484577)<br>[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/47179450)
+| 1.05 |Open Beta||Dec 22 2008<br>Monday|[blog.playstation.com](https://blog.playstation.com/2008/12/21/voice-chat-feature-on-playstation-home-resumes/)<br>[slashgear.com](https://www.slashgear.com/playstation-home-105-reintroduces-limited-voice-chat-2227333/)<br>[web.archive.org](https://web.archive.org/web/20090908060437/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=497500)<br>[gizmodo.com](https://gizmodo.com/playstation-home-voice-chat-restored-screws-sex-chats-5116439)
+| 1.10 |Open Beta||Feb 5 2009<br>Thursday|[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/47989893)
+| 1.11 |Open Beta|||
+| 1.21 |Open Beta||May 21 2009<br>Thursday|[playstationlifestyle.net](https://www.playstationlifestyle.net/2009/05/15/home-update-121-details/)<br>[web.archive.org](https://web.archive.org/web/20090521131537/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=662361)
+| 1.22 |Open Beta|||
+| 1.30 |Open Beta||Oct 1 2009<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2009/08/19/playstation-home-v1-3-coming-this-september/)<br>[web.archive.org](https://web.archive.org/web/20100122094453/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=782589)<br>[web.archive.org](https://web.archive.org/web/20100114085257/http://scrawlfx.com/2009/09/playstation-home-upgrades-to-v1-3-tomorrow)<br>[youtube.com](https://www.youtube.com/watch?v=tvX\_0E-MFbk)<br>[youtube.com](https://www.youtube.com/watch?v=qAv8t1tZVGA)<br>[youtube.com](https://www.youtube.com/watch?v=2SN0HfSxyLk)
+| 1.32 |Open Beta||Oct 22 2009<br>Thursday|[youtube.com](https://www.youtube.com/watch?v=vVVI9wDm2Co)<br>[xtremeps3.com](https://www.xtremeps3.com/2009/10/22/playstation-home-version-v1-32/)
+| 1.35 |Open Beta||Mar 11 2010<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2010/03/10/playstation-home-1-35-launching-tomorrow/)<br>[youtube.com](https://www.youtube.com/watch?v=fd\_xETDu0aA)<br>[youtube.com](https://www.youtube.com/watch?v=vFdlZ9vZi3s)
+| 1.36 |Open Beta||Jun 10 2010<br>Thursday|[playstationlifestyle.net](https://www.playstationlifestyle.net/2010/06/01/playstation-home-v1-36-full-patch-notes-released/amp/)<br>[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/5512657)
+| 1.40 |Open Beta||Nov 11 2010<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2010/11/05/playstation-home-updates-core-client-to-version-1-4/)<br>[youtube.com](https://www.youtube.com/watch?v=AeCMcnb19wQ)
+| 1.41 |Open Beta||Dec 15 2010<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2010/12/15/tons-of-additions-to-the-playstation-home-mall-novus-prime-additions-version-1-41-update/)
+| 1.50 |Open Beta||Apr 21 2011<br>Thursday|[playstationlifestyle.net](https://www.playstationlifestyle.net/2011/04/18/playstation-home-v1-5-update-hitting-ps3s-this-week/)
+| 1.51 |Open Beta||Jun 16 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/06/15/sodium-2-project-velocity-comes-to-playstation-home/)<br>[youtube.com](https://www.youtube.com/watch?v=F9LdIpS-UJE)
+| 1.52 |Open Beta|||
+| 1.55 |Open Beta||Sep 29 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/09/28/major-playstation-home-update-coming-this-thursday/)
+| 1.60 |Open Beta||Dec 8 201<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/12/07/playstation-home-releases-v1-60-weekly-update/)
+| 1.61 |Open Beta|||
+| 1.65 |Open Beta||Apr 25 2012<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2012/04/23/home-1-65-client-update-beats-by-dr-dre-new-x7-exclusives-weekly-update/comment-page-2/)<br>[youtube.com](https://www.youtube.com/watch?v=v-QJVQ\_A2Cs)
+| 1.66 |Open Beta|||
+| 1.70 |Open Beta||Sep 12 2012<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2012/09/11/playstation-home-update-to-v1-7-new-items-and-chances-to-win/)
+| 1.75 |Open Beta||Feb 13 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/02/13/valentines-day-in-playstation-home/)
+| 1.80 |Open Beta||Apr 10 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/04/11/playstation-home-update-grow-home-cherry-blossoms-and-more/)<br>[youtube.com](https://www.youtube.com/watch?v=0ko4\_81C-So)
+| 1.81 |Open Beta||May 29 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/05/29/playstation-home-update-lockwood-presents-the-lkwd-venue/)<br>[youtube.com](https://www.youtube.com/watch?v=xl3xdXWiJtw)
+| 1.82 |Open Beta|||
+| 1.83 |Open Beta||Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)
+| 1.84 |Open Beta|||
+| 1.85 |Open Beta|||
+| 1.86 |Open Beta||Mar 12 2014<br>Wednesday|[engadget.com](https://www.engadget.com/2014-03-10-playstation-home-getting-trophies-in-update-this-week.html)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2014/03/12/full-playstation-home-trophy-list-revealed-is-retroactive/)
+| 1.87 |Open Beta|Last Day|Apr 1 2015<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=jgg9HDhdjLU)
+
+</details>
+
 ### ✧ Extraction Summary ✧ 
 
 To reiterate, in order to extract the PlayStation®Home cache, it is **required to jailbreak your PS3** to gain access to its internal HDD. You will also **need a USB Stick** that's formated to the **FAT32** format. Most USB Sticks are FAT32 now days but if for some reason it's not, you will need to reformat it using a PC program called Rufus. If you have no USB Stick, do an internet search for "USB Stick 16GB FAT32" then order it.
