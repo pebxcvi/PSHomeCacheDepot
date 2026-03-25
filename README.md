@@ -209,7 +209,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons/ICON5.PNG" alt="ICON0"><br>
-      <span>v0.41 - v0.74<br>GDC 2007 Demo<br>Game Tab</span>
+      <span>v0.41 - v0.77<br>GDC 2007 Demo<br>Game Tab</span>
     </td>
   </tr>
 </table>
