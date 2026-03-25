@@ -311,7 +311,7 @@ With **HEN enabled**, do the following :
 > **You WILL get stuck in an update loop if either of these are broken!**
 
 > [!NOTE]
-> **If you do not see the "Update via Storage Media" option under System Update, you MUST reboot your PS3 into Safe Mode and perform the update from there.**
+> **If you do not see the "Update via Storage Media" option under System Update, you MUST reboot your PS3 into Safe Mode and perform the update from there. How to : [www.playstation.com](https://www.playstation.com/en-us/support/hardware/update-playstation-system-software-safe-mode/)**
 
 Use the **`PS3UPDAT.PUP`** in the PS3 folder to update your PS3 onto **`HFW`** firmware. Follow these steps:
 
