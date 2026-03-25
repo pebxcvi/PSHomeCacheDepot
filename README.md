@@ -300,9 +300,9 @@ With **HEN enabled**, do the following :
 
 ## ✧ How to Jailbreak ✧ 
 
-**`HFW 4.92 w/ HEN 3.4.0`**
+**`HFW 4.93 w/ HEN 3.5.0`**
 
-**Download required files @** [**`JailbreakTools_4.92.1`**](https://drive.google.com/file/d/1DWJTZ3gwBmSa1aj0ieZo3YsSmCk3NjiI/view?usp=sharing)
+**Download required files @** [**`JailbreakTools_4.93.1`**](https://drive.google.com/file/d/1_Hi7KWbKpT3IAvgambACUfcTxGWqW5Pu/view?usp=sharing)
 
 ### ✧ Updating Your PS3 ✧ 
 
@@ -323,7 +323,7 @@ Use the **`PS3UPDAT.PUP`** in the PS3 folder to update your PS3 onto **`HFW`** f
 
 ### ✧ Setting up the Browser ✧
 
-After updating your PS3 to **`HFW 4.92`**, connect your PS3 to the internet (but **don't sign in**). Follow these steps:
+After updating your PS3 to **`HFW 4.93`**, connect your PS3 to the internet (but **don't sign in**). Follow these steps:
 
 1. Open the browser on your PS3.  
 2. Press <img src="https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/DEV/Icons-Symbols/plain-triangle-grey.png" alt="plain-triangle-grey.png" width="18"> and do the following:  
@@ -336,7 +336,7 @@ After updating your PS3 to **`HFW 4.92`**, connect your PS3 to the internet (but
 3. Press ▻ to bring up the Address Bar.  
 4. Type in **[`http://ps3xploit.me`](http://ps3xploit.me)** then press ▻ again. This will take you to the ps3xploit website.
 
-### ✧ Installing HEN 3.4.0 ✧ 
+### ✧ Installing HEN 3.5.0 ✧ 
 
 1. On the top left of the ps3xploit page, go to **`PS3HEN → HEN Installer/Enabler`**. This opens the HEN Installer page at
    **`http://ps3xploit.me/hen/installer/index.html`**  
