@@ -240,8 +240,9 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 <summary><b>PlayStation®Home Versions</b></summary>
 -
 
-**`💡 Note: Subject to change based on new information found! If anyone has additional information, please contact us.`**
+**`💡 Subject to change based on new information found! `**
 
+**`💡 If anyone has additional information, please contact us by joining the Home Laboratory discord.`**
 
 | Version | Type | Note | Est. Release Date | Link Refs |
 |----------|-----------|----------|----------|----------|
