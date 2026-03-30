@@ -246,9 +246,9 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 
 | Version | Type | Note | Est. Release Date | Link Refs |
 |----------|-----------|----------|----------|----------|
-| 0.41 |Closed Beta|GDC Demo Build||[youtube.com](https://www.youtube.com/watch?v=n82yN6myLgg)<br>[youtube.com](https://www.youtube.com/watch?v=I8ore7INF4Q)<br>[youtube.com](https://www.youtube.com/watch?v=UCWYG2syuhI)<br>[youtube.com](https://www.youtube.com/watch?v=DOyQD3wprlM)<br>[youtube.com](https://www.youtube.com/watch?v=LvK6eKAymVQ)
+| 0.41 |Closed Beta|GDC Demo Build|PSN Store release date : <br> May 3 2007<br>E3 Showcase : <br>July 11 2007|[youtube.com](https://www.youtube.com/watch?v=n82yN6myLgg)<br>[youtube.com](https://www.youtube.com/watch?v=I8ore7INF4Q)<br>[youtube.com](https://www.youtube.com/watch?v=UCWYG2syuhI)<br>[youtube.com](https://www.youtube.com/watch?v=DOyQD3wprlM)<br>[youtube.com](https://www.youtube.com/watch?v=LvK6eKAymVQ)
 | 0.73 |Closed Beta|GDC Demo Build|Sep 13 2007<br>Thursday|[youtube.com](https://www.youtube.com/watch?v=w4LskmuURPs)
-| 0.74 |Closed Beta|GDC Demo Build||[youtube.com](https://www.youtube.com/watch?v=H4ooVorshns)
+| 0.74 |Closed Beta|GDC Demo Build|Oct 2007|[youtube.com](https://www.youtube.com/watch?v=H4ooVorshns)
 | 0.77 |Closed Beta|GDC Demo Build|Nov 26 2007<br>Monday|[psu.com](https://www.psu.com/news/home-beta-build-0-7-7-out-now/)<br>[web.archive.org](https://web.archive.org/web/20080209184209/https://ps3forums.com/showthread.php?t=111279)<br>[youtube.com](https://www.youtube.com/watch?v=imWSYLicOZA)<br>[youtube.com](https://www.youtube.com/watch?v=1_FMJOO8CeQ)
 | 0.83 |Closed Beta||Feb 28 2008<br>Thursday|[gamrconnect.vgchartz.com](https://gamrconnect.vgchartz.com/thread/18218/playstation-home-closed-beta-gets-an-update/)<br>[youtube.com](https://www.youtube.com/watch?v=W-plhS0wx0w)<br>[youtube.com](https://www.youtube.com/watch?v=6pgrYRhHoGY)<br>[youtube.com](https://www.youtube.com/watch?v=mHTcxm5OPSg)<br>[youtube.com](https://www.youtube.com/watch?v=tlVZQumnoOU)<br>[youtube.com](https://www.youtube.com/watch?v=HvPJNYfeSoc)<br>[youtube.com](https://www.youtube.com/watch?v=0x0rB9uXpEA)
 | 0.86 |Closed Beta||May 23 2008<br>Friday|[psu.com](https://www.psu.com/news/home-beta-updated-media-and-events-space-revealed/)<br>[web.archive.org](https://web.archive.org/web/20080527230933/http://scrawlfx.com/2008/05/home-beta-update-086-comes-with-new-space)<br>[web.archive.org](https://web.archive.org/web/20080828004703/http://www.ps3vault.com/playstation-home-beta-updated-again-2832)<br>[web.archive.org](https://web.archive.org/web/20080528102638/http://scrawlfx.com:80/2008/05/playstation-home-event-venue-officially-revealed)<br>[youtube.com](https://www.youtube.com/watch?v=uTECmA4lMVU)
@@ -284,8 +284,8 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 | 1.80 |Open Beta||Apr 10 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/04/11/playstation-home-update-grow-home-cherry-blossoms-and-more/)<br>[youtube.com](https://www.youtube.com/watch?v=0ko4\_81C-So)
 | 1.81 |Open Beta||May 29 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/05/29/playstation-home-update-lockwood-presents-the-lkwd-venue/)<br>[youtube.com](https://www.youtube.com/watch?v=xl3xdXWiJtw)
 | 1.82 |Open Beta|||
-| 1.83 |Open Beta||Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)
-| 1.84 |Open Beta|||
+| 1.83 |Open Beta|1.83 QA leak<br>Up for 1 Day|Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)
+| 1.84 |Open Beta|Actually 1.83 Retail|Dec 12 2013<br>Thursday|
 | 1.85 |Open Beta|||
 | 1.86 |Open Beta||Mar 12 2014<br>Wednesday|[engadget.com](https://www.engadget.com/2014-03-10-playstation-home-getting-trophies-in-update-this-week.html)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2014/03/12/full-playstation-home-trophy-list-revealed-is-retroactive/)
 | 1.87 |Open Beta|Last Day|Apr 1 2015<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=jgg9HDhdjLU)
