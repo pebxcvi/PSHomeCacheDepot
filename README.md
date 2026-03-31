@@ -283,7 +283,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 | 1.75 |Open Beta||Feb 13 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/02/13/valentines-day-in-playstation-home/)
 | 1.80 |Open Beta||Apr 10 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/04/11/playstation-home-update-grow-home-cherry-blossoms-and-more/)<br>[youtube.com](https://www.youtube.com/watch?v=0ko4\_81C-So)
 | 1.81 |Open Beta||May 29 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/05/29/playstation-home-update-lockwood-presents-the-lkwd-venue/)<br>[youtube.com](https://www.youtube.com/watch?v=xl3xdXWiJtw)
-| 1.82 |Open Beta|||
+| 1.82 |Open Beta||Sep 10 2013<br>Wednesday|
 | 1.83 |Open Beta|1.83 QA leak;<br>Up for 1 Day|Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)
 | 1.84 |Open Beta|Actual 1.83 Retail|Dec 12 2013<br>Thursday|
 | 1.85 |Open Beta|||
