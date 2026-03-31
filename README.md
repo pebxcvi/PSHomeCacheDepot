@@ -287,7 +287,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 | 1.83 |Open Beta|1.83 QA leak;<br>Up for 1 Day|Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)
 | 1.84 |Open Beta|Actual 1.83 Retail|Dec 12 2013<br>Thursday|
 | 1.85 |Open Beta|||
-| 1.86 |Open Beta||Mar 12 2014<br>Wednesday|[engadget.com](https://www.engadget.com/2014-03-10-playstation-home-getting-trophies-in-update-this-week.html)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2014/03/12/full-playstation-home-trophy-list-revealed-is-retroactive/)
+| 1.86 |Open Beta|Trophies|Mar 12 2014<br>Wednesday|[engadget.com](https://www.engadget.com/2014-03-10-playstation-home-getting-trophies-in-update-this-week.html)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2014/03/12/full-playstation-home-trophy-list-revealed-is-retroactive/)
 | 1.87 |Open Beta|Last Day|Apr 1 2015<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=jgg9HDhdjLU)
 
 </details>
