@@ -154,9 +154,17 @@ You can also download the excel spreadsheet directly within the repository here 
 
 **```Objects :```**
 
-A snippet showcasing how many Objects are archived verus how many are missing, using the Object Catalogue at Home End as the reference.
+A snippet showcasing how many Objects are archived vs how many are missing, using only the ObjectCatalogue at Home End as reference :
 
-> <img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectProgressJuly112025.png" alt="Objects" width="70%">
+> 	<img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectsProgressHomeEnd.png" alt="ObjectsProgressHomeEnd" width="70%">
+
+A snippet showcasing how many Objects are archived vs how many are missing, using all ObjectCatalogues as reference. This includes all object UUIDs and versions :
+
+> 	<img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectsProgressAll.png" alt="ObjectsProgressAll" width="70%">
+
+A snippet showcasing the overall Object statistics from the ObjectCatalogue at Home-end :
+
+> 	<img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectsGeneralStats.png" alt="ObjectsGeneralStats" width="70%">
 
 A full list of the Objects folder can be downloaded here within the repository :
 
