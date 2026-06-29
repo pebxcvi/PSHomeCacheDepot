@@ -158,7 +158,7 @@ A snippet showcasing how many Objects are archived vs how many are missing, usin
 
 > 	<img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectsProgressHomeEnd.png" alt="ObjectsProgressHomeEnd" width="70%">
 
-A snippet showcasing how many Objects are archived vs how many are missing, using all ObjectCatalogues as reference. This includes all object UUIDs and versions :
+A snippet showcasing how many Objects are archived vs how many are missing, using all ObjectCatalogues as reference. This includes all Object UUIDs and versions :
 
 > 	<img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectsProgressAll.png" alt="ObjectsProgressAll" width="70%">
 
