@@ -166,9 +166,13 @@ A snippet showcasing the overall Object statistics from the ObjectCatalogue at H
 
 > 	<img src="https://github.com/pebxcvi/PSHomeCacheDepot/blob/main/ObjectsGeneralStats.png" alt="ObjectsGeneralStats" width="70%">
 
-A full list of the Objects folder can be downloaded here within the repository :
+A full list of the archived Objects can be downloaded here within the repository :
 
 > [OBJECT_QUERY.txt](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/OBJECTS/OBJECT_QUERY.txt?download=true)
+
+A full list of all known UUIDs and versions from all Object Catalogues can be downloaded here within the repository :
+
+> [OBJECT_QUERY.txt](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/OBJECTS/uniqueobjects.txt?download=true)
 
 ### ✧ Cache Tools ✧
 
