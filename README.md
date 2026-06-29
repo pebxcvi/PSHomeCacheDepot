@@ -167,14 +167,21 @@ A full list of the Objects folder can be downloaded here within the repository :
 Here are a few fully open-sourced tools from the Home Laboratory Project :
 
 1) PSHome Cache Extractor
-   - This is a Windows batch script for the logging of PlayStation®Home raw caches. It utilizes various scripts/programs such as DEINF2.0. 
-   - Compiled : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor/releases/tag/v3.6.0)
+   - This is a Windows batch script for the logging of PlayStation®Home raw caches and the copying of cache data into their original CDN folder structure. It utilizes various scripts and programs, such as DEINF2.0. 
+   - Compiled : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor/releases/tag/v3.6.2)
    - Source : [PSHomeCacheExtractor](https://github.com/pebxcvi/PSHomeCacheExtractor)
 
 2) Nautilus
-   - This is a stand-alone Windows GUI appliation for handling PlayStation®Home assets using Multiserver's backend.
+   - This is a stand-alone Windows GUI application for handling PlayStation®Home assets using Multiserver's backend.
+   - Its most notable feature is the ability to dump and map PlayStation®Home BAR, SDAT, and SHARC archives, and repack them.
    - Compiled : [Nautilus](https://github.com/DeViL303/MultiServer3-NuatilusFork/releases)
    - Source : [Nautilus](https://github.com/GitHubProUser67/NautilusXP2024)
+
+3) PSHomeCryptoTool
+   - This is a stand-alone Windows tool for decrypting and encrypting a specific subset of PlayStation®Home data files found within raw caches, with both command-line and drag-and-drop support.
+   - It includes a bruteforcer, an encrypter, and a stand-alone INF logger.
+   - Compiled : [PSHomeCryptoTool](https://github.com/pebxcvi/PSHomeCryptoTool/releases/tag/V2.0)
+   - Source : [PSHomeCryptoTool](https://github.com/pebxcvi/PSHomeCryptoTool)
 
 ### ✧ Cache Icons ✧ 
 
