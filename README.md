@@ -172,7 +172,7 @@ A full list of the archived Objects can be downloaded here within the repository
 
 A full list of all known UUIDs and versions from all Object Catalogues can be downloaded here within the repository :
 
-> [OBJECT_QUERY.txt](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/OBJECTS/uniqueobjects.txt?download=true)
+> [uniqueobjects.txt](https://huggingface.co/datasets/pebxcvi/PSHomeCacheDepot/resolve/main/OBJECTS/uniqueobjects.txt?download=true)
 
 ### ✧ Cache Tools ✧
 
