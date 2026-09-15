@@ -386,7 +386,7 @@ With **HEN enabled**, do the following :
 
 > [!WARNING]
 > **Please ensure the PS3's Wi-Fi and Bluetooth are working properly and that its Blu-ray Disc drive can read discs BEFORE updating!**	
-> **You WILL get stuck in an update loop if either of these are broken!**
+> **You WILL get stuck in an update loop if any of these are not working!**
 
 > [!NOTE]
 > **If you do not see the "Update via Storage Media" option under System Update, you MUST reboot your PS3 into Safe Mode and perform the update from there. How to : [https://consolemods.org](https://consolemods.org/wiki/PS3:Safe_Mode)**
