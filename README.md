@@ -385,7 +385,7 @@ With **HEN enabled**, do the following :
 ### ✧ Updating Your PS3 ✧ 
 
 > [!WARNING]
-> **Please ensure the PS3's Wi-Fi and Bluetooth are working properly and that its Blu-ray Disc drive can read discs BEFORE updating!**	
+> **Please ensure your PS3's Wi-Fi and Bluetooth are working properly and that its Blu-ray Disc drive can read discs BEFORE updating!**	
 > **You WILL get stuck in an update loop if any of these are not working!**
 
 > [!NOTE]
