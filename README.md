@@ -281,10 +281,10 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 | 1.04 |Open Beta|Voice Chats;<br>Removed|Dec 18 2008<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2008/12/17/playstation-home-system-maintenance/)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2008/12/18/playstation-home-104-patch-details/)<br>[slashgear.com](https://www.slashgear.com/sony-playstation-home-offline-today-for-104-software-update-1826859/)<br>[web.archive.org/boardsus.ps.com](https://web.archive.org/web/20091216154012/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=484577)<br>[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/47179450)
 | 1.05 |Open Beta|Voice Chats;<br>Apartments Only|Dec 22 2008<br>Monday|[blog.playstation.com](https://blog.playstation.com/2008/12/21/voice-chat-feature-on-playstation-home-resumes/)<br>[slashgear.com](https://www.slashgear.com/playstation-home-105-reintroduces-limited-voice-chat-2227333/)<br>[web.archive.org/boardsus.ps.com](https://web.archive.org/web/20090908060437/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=497500)<br>[gizmodo.com](https://gizmodo.com/playstation-home-voice-chat-restored-screws-sex-chats-5116439)
 | 1.10 |Open Beta||Feb 5 2009<br>Thursday|[gamefaqs.gamespot.com](https://gamefaqs.gamespot.com/boards/938621-playstation-home/47989893)
-| 1.11 |Open Beta|||
+| 1.11 |Open Beta||Feb 26 2009<br>Thursday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/412.html#id_38a4aad2)
 | 1.21 |Open Beta||May 21 2009<br>Thursday|[playstationlifestyle.net](https://www.playstationlifestyle.net/2009/05/15/home-update-121-details/)<br>[web.archive.org/boardsus.ps.com](https://web.archive.org/web/20090521131537/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=662361)
-| 1.22 |Open Beta|||
-| 1.23 |Open Beta|||
+| 1.22 |Open Beta||Jun 2 2009<br>Tuesday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/412.html#id_38a4aad2)
+| 1.23 |Open Beta||Aug 20 2009<br>Thursday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/412.html#id_38a4aad2)
 | 1.30 |Open Beta||Oct 1 2009<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2009/08/19/playstation-home-v1-3-coming-this-september/)<br>[web.archive.org/boardsus.ps.com](https://web.archive.org/web/20100122094453/http://boardsus.playstation.com/playstation/board/message?board.id=ps3home\&thread.id=782589)<br>[web.archive.org/scrawlfx.com](https://web.archive.org/web/20100114085257/http://scrawlfx.com/2009/09/playstation-home-upgrades-to-v1-3-tomorrow)<br>[youtube.com](https://www.youtube.com/watch?v=tvX\_0E-MFbk)<br>[youtube.com](https://www.youtube.com/watch?v=qAv8t1tZVGA)<br>[youtube.com](https://www.youtube.com/watch?v=2SN0HfSxyLk)
 | 1.32 |Open Beta||Oct 22 2009<br>Thursday|[youtube.com](https://www.youtube.com/watch?v=vVVI9wDm2Co)<br>[xtremeps3.com](https://www.xtremeps3.com/2009/10/22/playstation-home-version-v1-32/)
 | 1.35 |Open Beta||Mar 11 2010<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2010/03/10/playstation-home-1-35-launching-tomorrow/)<br>[youtube.com](https://www.youtube.com/watch?v=fd\_xETDu0aA)<br>[youtube.com](https://www.youtube.com/watch?v=vFdlZ9vZi3s)
@@ -293,20 +293,20 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 | 1.41 |Open Beta||Dec 15 2010<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2010/12/15/tons-of-additions-to-the-playstation-home-mall-novus-prime-additions-version-1-41-update/)
 | 1.50 |Open Beta||Apr 21 2011<br>Thursday|[playstationlifestyle.net](https://www.playstationlifestyle.net/2011/04/18/playstation-home-v1-5-update-hitting-ps3s-this-week/)
 | 1.51 |Open Beta||Jun 16 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/06/15/sodium-2-project-velocity-comes-to-playstation-home/)<br>[youtube.com](https://www.youtube.com/watch?v=F9LdIpS-UJE)
-| 1.52 |Open Beta|||
+| 1.52 |Open Beta||Jun 30 2011<br>Thursday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/480.html#id_c571e96d)
 | 1.55 |Open Beta||Sep 29 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/09/28/major-playstation-home-update-coming-this-thursday/)
-| 1.60 |Open Beta||Dec 8 201<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/12/07/playstation-home-releases-v1-60-weekly-update/)
-| 1.61 |Open Beta|||
+| 1.60 |Open Beta||Dec 8 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/12/07/playstation-home-releases-v1-60-weekly-update/)
+| 1.61 |Open Beta||Dec 16 2011<br>Friday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
 | 1.65 |Open Beta||Apr 25 2012<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2012/04/23/home-1-65-client-update-beats-by-dr-dre-new-x7-exclusives-weekly-update/comment-page-2/)<br>[youtube.com](https://www.youtube.com/watch?v=v-QJVQ\_A2Cs)
-| 1.66 |Open Beta|||
+| 1.66 |Open Beta||Jun 13 2012<br>Wednesday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/480.html#id_c571e96d)
 | 1.70 |Open Beta||Sep 12 2012<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2012/09/11/playstation-home-update-to-v1-7-new-items-and-chances-to-win/)
 | 1.75 |Open Beta||Feb 13 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/02/13/valentines-day-in-playstation-home/)
 | 1.80 |Open Beta||Apr 10 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/04/11/playstation-home-update-grow-home-cherry-blossoms-and-more/)<br>[youtube.com](https://www.youtube.com/watch?v=0ko4\_81C-So)
-| 1.81 |Open Beta||May 29 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/05/29/playstation-home-update-lockwood-presents-the-lkwd-venue/)<br>[youtube.com](https://www.youtube.com/watch?v=xl3xdXWiJtw)
-| 1.82 |Open Beta||Sep 10 2013<br>Wednesday|
-| 1.83 |Open Beta|1.83 QA leak;<br>Up for 1 Day|Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)
-| 1.84 |Open Beta|Actual 1.83 Retail|Dec 12 2013<br>Thursday|
-| 1.85 |Open Beta|||
+| 1.81 |Open Beta||May 29 2013<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2013/05/29/playstation-home-update-lockwood-presents-the-lkwd-venue/)<br>[youtube.com](https://www.youtube.com/watch?v=xl3xdXWiJtw)<br>[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
+| 1.82 |Open Beta||Sep 11 2013<br>Wednesday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
+| 1.83 |Open Beta|1.83 QA leak;<br>Up for 5 Days|Dec 11 2013<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=Uqg1jmCXy2Y)<br>[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
+| 1.84 |Open Beta|Actual 1.83 Retail|Dec 16 2013<br>Monday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
+| 1.85 |Open Beta||Dec 20 2013<br>Friday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
 | 1.86 |Open Beta|Trophies|Mar 12 2014<br>Wednesday|[engadget.com](https://www.engadget.com/2014-03-10-playstation-home-getting-trophies-in-update-this-week.html)<br>[playstationlifestyle.net](https://www.playstationlifestyle.net/2014/03/12/full-playstation-home-trophy-list-revealed-is-retroactive/)
 | 1.87 |Open Beta|Last Day|Apr 1 2015<br>Wednesday|[youtube.com](https://www.youtube.com/watch?v=jgg9HDhdjLU)
 
