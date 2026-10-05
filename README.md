@@ -296,7 +296,7 @@ Here are a few fully open-sourced tools from the Home Laboratory Project :
 | 1.52 |Open Beta||Jun 30 2011<br>Thursday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/480.html#id_c571e96d)
 | 1.55 |Open Beta||Sep 29 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/09/28/major-playstation-home-update-coming-this-thursday/)
 | 1.60 |Open Beta||Dec 8 2011<br>Thursday|[blog.playstation.com](https://blog.playstation.com/2011/12/07/playstation-home-releases-v1-60-weekly-update/)
-| 1.61 |Open Beta||Dec 16 2011<br>Friday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/578.html#id_62e9302c)
+| 1.61 |Open Beta||Dec 16 2011<br>Friday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/480.html#id_c571e96d)
 | 1.65 |Open Beta||Apr 25 2012<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2012/04/23/home-1-65-client-update-beats-by-dr-dre-new-x7-exclusives-weekly-update/comment-page-2/)<br>[youtube.com](https://www.youtube.com/watch?v=v-QJVQ\_A2Cs)
 | 1.66 |Open Beta||Jun 13 2012<br>Wednesday|[w.atwiki.jp](https://w.atwiki.jp/playstationhome/pages/480.html#id_c571e96d)
 | 1.70 |Open Beta||Sep 12 2012<br>Wednesday|[blog.playstation.com](https://blog.playstation.com/2012/09/11/playstation-home-update-to-v1-7-new-items-and-chances-to-win/)
